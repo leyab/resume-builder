@@ -1,0 +1,7 @@
+private/
+exports/
+*.pdf
+.env
+.env.*
+.DS_Store
+node_modules/
