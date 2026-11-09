@@ -1,0 +1,54 @@
+{
+  "basics": {
+    "name": "Alex Example",
+    "title": "Customer Support Specialist",
+    "contact": [
+      {
+        "label": "Email",
+        "value": "alex@example.com",
+        "href": "mailto:alex@example.com"
+      },
+      {
+        "label": "Location",
+        "value": "Example City",
+        "href": ""
+      }
+    ]
+  },
+  "summary": "Fictional profile demonstrating a JSON-driven resume template. Replace the sample data with your own experience before exporting.",
+  "languages": [
+    {
+      "name": "English",
+      "level": "Fluent"
+    }
+  ],
+  "skills": [
+    "Case Investigation",
+    "Customer Communication",
+    "Escalation Handling"
+  ],
+  "software": [
+    "Ticketing Systems"
+  ],
+  "certifications": [],
+  "experience": [
+    {
+      "role": "Customer Support Specialist",
+      "company": "Example Company",
+      "period": "2023 \u2014 Present",
+      "location": "Remote",
+      "highlights": [
+        "Investigate account and billing inquiries through chat and email.",
+        "Document findings and escalate cases that require additional permissions."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Example Qualification",
+      "institution": "Example School",
+      "period": "2018 \u2014 2021"
+    }
+  ],
+  "additionalExperience": []
+}
